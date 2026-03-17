@@ -1,0 +1,10 @@
+MODEL_PATH = r""
+
+MONGO_URI =
+DATABASE_NAME =
+
+HOST = 
+PORT = 
+DEBUG =
+
+SYSTEM_PROMPT = """
